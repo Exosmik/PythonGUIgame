@@ -1,2 +1,2 @@
 # PythonGUIgame
-I'm making a GUI based game in python
+I'm making an idle clicker game in python
